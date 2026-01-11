@@ -21,7 +21,6 @@ This project addresses the problem by:
 
 ## 📁 Repository Structure
 
-.
 ├── 1_cell_segmentation.ipynb
 ├── 2_weakly_supervised_cell_training.ipynb
 ├── 3_attention_mil_training.ipynb
