@@ -33,6 +33,7 @@ This project addresses the problem by:
 │   ├── attention_maps/
 │   └── metrics/
 └── README.md
+.
 
 
 
@@ -124,19 +125,24 @@ Dataset characteristics:
 
 Channels:
 | Channel | Meaning |
-|-------|-------|
-| Green | Protein of interest |
-| Blue | Nucleus (DAPI) |
-| Red | Microtubules |
+|--------|--------|
+| Green  | Protein of interest |
+| Blue   | Nucleus (DAPI) |
+| Red    | Microtubules |
 | Yellow | Golgi / Endoplasmic Reticulum |
 
+---
 ---
 
 ## ⚙️ Installation
 
-```bash - pip install torch torchvision opencv-python cellpose numpy pandas scikit-learn matplotlib tqdm
+    pip install torch torchvision opencv-python cellpose numpy pandas scikit-learn matplotlib tqdm
 
- ✨ Project Highlights
+
+
+---
+
+## ✨ Project Highlights
 
 - End-to-end weakly supervised pipeline  
 - No cell-level annotations required  
@@ -147,9 +153,9 @@ Channels:
   - Disease phenotyping  
   - Spatial transcriptomics  
 
+---
 
-
-📚 References
+## 📚 References
 
 - HPA Kaggle Challenge:  
   https://www.kaggle.com/competitions/human-protein-atlas-image-classification  
@@ -158,5 +164,3 @@ Channels:
 
 - Cellpose-SAM:  
   https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1  
-
-
