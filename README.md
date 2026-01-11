@@ -134,9 +134,9 @@ Channels:
 
 ## ⚙️ Installation
 
-```bash
-pip install torch torchvision opencv-python cellpose numpy pandas scikit-learn matplotlib tqdm
-## ✨ Project Highlights
+```bash - pip install torch torchvision opencv-python cellpose numpy pandas scikit-learn matplotlib tqdm
+
+ ✨ Project Highlights
 
 - End-to-end weakly supervised pipeline  
 - No cell-level annotations required  
@@ -147,9 +147,9 @@ pip install torch torchvision opencv-python cellpose numpy pandas scikit-learn m
   - Disease phenotyping  
   - Spatial transcriptomics  
 
----
 
-## 📚 References
+
+📚 References
 
 - HPA Kaggle Challenge:  
   https://www.kaggle.com/competitions/human-protein-atlas-image-classification  
